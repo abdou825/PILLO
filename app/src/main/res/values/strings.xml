@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pillo</string>
+    <string name="medical_safety_disclaimer">بيلّو بيفكّرك بس. التزم بتعليمات دكتورك.</string>
+    <string name="alarm_default_alert">ميعاد الدوا يا بطل! خده دلوقتي</string>
+    <string name="take_dose_action">أخدت الدوا</string>
+    <string name="snooze_dose_action">فكّرني بعد 10 دقايق</string>
+    <string name="skip_dose_action">هتخطى الجرعة</string>
+    <string name="permission_warning_banner">التنبيه ممكن ميرنش بدون الصلاحيات دي</string>
+    <string name="low_stock_warning">علاجك قرب يخلص، فاضل يومين</string>
+    <string name="low_stock_reorder">هكمّل</string>
+    <string name="low_stock_finish">هخلّصه</string>
+    <string name="doctor_reminder_before_stopping">راجع دكتورك قبل ما توقف أي علاج</string>
+    <string name="dose_missed_notification">فاتتك جرعة</string>
+</resources>

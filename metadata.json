@@ -1,0 +1,6 @@
+{
+  "name": "Pillo",
+  "description": "تطبيق بيلّو - منبه ذكي وموثوق للأدوية بتصميم مصري ودعم كامل بدون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
